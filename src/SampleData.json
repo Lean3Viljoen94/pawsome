@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Sparky",
+        "gender": "Male",
+        "starSign": "Cancer",
+        "birthdate": 2018,
+        "city": "Cape Town",
+        "adoptionPrice": "R1000", 
+        "imageUrl": "https://i.pinimg.com/originals/8c/7a/e2/8c7ae28680cd917192d6de5ef3d8cd7f.jpg",
+        "bio": "Enter bio here"
+    },
+    {
+        "name": "Julia",
+        "gender": "Female",
+        "starSign": "Aries",
+        "birthdate": 2019,
+        "city": "Cape Town",
+        "adoptionPrice": "R900", 
+        "imageUrl": "https://cf.ltkcdn.net/dogs/images/std/254308-1600x1065-puppy-biting.jpg",
+        "bio": "Enter name bio here"
+    },
+    {
+        "name": "Megan",
+        "gender": "Female",
+        "starSign": "Taurus",
+        "birthdate": 2018,
+        "city": "Pretoria",
+        "adoptionPrice": "R2000", 
+        "imageUrl": "https://preview.redd.it/bkwgp8qpegjy.jpg?auto=webp&s=f7c8f37aabb3a1533ff11851f175b3b917ff5ac5",
+        "bio": "Enter name bio here"
+    },
+    {
+        "name": "Jesse",
+        "gender": "Male",
+        "starSign": "Leo",
+        "birthdate": 2020,
+        "city": "Durban",
+        "adoptionPrice": "R1000", 
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTerPzUOndTQWEW0jmJsdrhAtDHrVI_f5liBzf9Wz__v88sGK2f&s",
+        "bio": "Enter name bio here"
+    },
+    {
+        "name": "Tudor",
+        "gender": "Male",
+        "starSign": "Vigro",
+        "birthdate": 2019,
+        "city": "Cape Town",
+        "adoptionPrice": "R1300", 
+        "imageUrl": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/11/29/08/puppy.jpg?w968h681",
+        "bio": "Enter name bio here"
+    },
+    {
+        "name": "Sussie",
+        "gender": "Female",
+        "starSign": "Scorpio",
+        "birthdate": 2017,
+        "city": "Cape Town",
+        "adoptionPrice": "R500", 
+        "imageUrl": "https://img.huffingtonpost.com/asset/5cd3adac2400003300a9b211.jpeg?ops=scalefit_630_noupscale",
+        "bio": "Enter name bio here"
+    },
+    {
+        "name": "Thandi",
+        "gender": "Female",
+        "starSign": "Libra",
+        "birthdate": 2015,
+        "city": "Pretoria",
+        "adoptionPrice": "R1100", 
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1hHuPfPgl0I8iXSbyvx5QLPAx5Xnd5BiQfLYKJSWCAg7oLggR&s",
+        "bio": "Enter name bio here"
+    },
+    {
+        "name": "Boet",
+        "gender": "Male",
+        "starSign": "Aquarius",
+        "birthdate": 2019,
+        "city": "Durban",
+        "adoptionPrice": "R700", 
+        "imageUrl": "https://www.vetvoice.com.au/imagevault/publishedmedia/0qjufu9t5emp80r9m60w/Dog_-_puppy.jpg",
+        "bio": "Enter name bio here"
+    },
+    {
+        "name": "Riri",
+        "gender": "Female",
+        "starSign": "Gemini",
+        "birthdate": 2020,
+        "city": "Cape Town",
+        "adoptionPrice": "R1000", 
+        "imageUrl": "https://www.focusjunior.it/content/uploads/2019/04/rottweiler-1.jpeg",
+        "bio": "Enter name bio here"
+    },
+    {
+        "name": "Brad Pitt",
+        "gender": "Male",
+        "starSign": "Aquarius",
+        "birthdate": 2016,
+        "city": "Cape Town",
+        "adoptionPrice": "R900", 
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLRCe_mjq0lgvoqc7VtyTf9DJgI47S_Ul4b68tckpcLX-Cytm9Ow&s",
+        "bio": "Enter name bio here"
+    }
+]
