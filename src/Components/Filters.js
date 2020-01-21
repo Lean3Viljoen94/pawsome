@@ -3,7 +3,9 @@ import React, { Component } from "react";
 import DropdownButton from "react-bootstrap/DropdownButton";
 import Dropdown from "react-bootstrap/Dropdown";
 
-// Receives state from DogCards component 
+// Receives props from the DogCards component 
+
+// Filters 
 
 class Filters extends Component {
   render() {
@@ -40,28 +42,6 @@ class Filters extends Component {
               Clear Filter
             </Dropdown.Item>
           </DropdownButton>
-          {/* <DropdownButton id="dropdown-basic-button" title="Mileage">
-            <Dropdown.Item
-              onClick={() => this.props.setMileageRange(0, 100000)}
-            >
-              Less than 100 000 km
-            </Dropdown.Item>
-            <Dropdown.Item
-              onClick={() => this.props.setMileageRange(0, 150000)}
-            >
-              Less than 150 000 km
-            </Dropdown.Item>
-            <Dropdown.Item
-              onClick={() => this.props.setMileageRange(150000, Infinity)}
-            >
-              More than 150 000 km
-            </Dropdown.Item>
-            <Dropdown.Item
-              onClick={() => this.props.setMileageRange(0, Infinity)}
-            >
-              Clear Filter
-            </Dropdown.Item>
-          </DropdownButton> */}
         </div>
       </div>
     );

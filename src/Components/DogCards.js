@@ -16,7 +16,7 @@ import ListGroup from "react-bootstrap/ListGroup";
 import placeholder from '../Images/placeholder.jpeg'
 
 
-// modal receives props from DogCards component. 
+// Modal receives props from DogCards component. 
 class Modal extends React.Component {
   render() {
     return (
@@ -55,8 +55,6 @@ class DogCards extends Component {
       ageMax: Infinity,
       priceMin: 0,
       priceMax: Infinity,
-    //   mileMin: 0,
-    //   mileMax: Infinity
     };
     this.showDogInModal = this.showDogInModal.bind(this);
     this.hideDogModal = this.hideDogModal.bind(this);
@@ -85,13 +83,6 @@ class DogCards extends Component {
     });
   };
 
-//   setMileageRange = (min, max) => {
-//     this.setState({
-//       mileMin: min,
-//       mileMax: max
-//     });
-//   };
-
   render(){
     var dogData = SampleData;
 
@@ -107,8 +98,6 @@ class DogCards extends Component {
         dogPrice < this.state.priceMax &&
         dog.birthdate > this.state.ageMin &&
         dog.birthdate < this.state.ageMax
-        // dog.mileage > this.state.mileMin &&
-        // dog.mileage < this.state.mileMax
       );
     });
     const listDogs = filteredDogs.map((dog, i) => (
@@ -157,7 +146,6 @@ class DogCards extends Component {
         <Filters
           setYearRange={this.setYearRange}
           setPriceRange={this.setPriceRange}
-        //   setMileageRange={this.setMileageRange}
         />
         {this.state.modalOpen ? <Modal dog={this.state.dogToShowInModal} onClose={() => this.hideDogModal}/> : null}
           <Container>
