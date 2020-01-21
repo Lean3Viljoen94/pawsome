@@ -18,9 +18,6 @@ class Header extends Component {
           <Navbar.Brand href="#home">Pawsome Adoption Agency</Navbar.Brand>
           <Nav className="mr-auto">
             <div className="navbar">
-              {/* <NavLink to="/" className="navlink" >
-                Showroom
-              </NavLink> */}
             </div>
           </Nav>
         </Navbar>
