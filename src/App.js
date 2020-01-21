@@ -1,7 +1,7 @@
 import React from 'react';
 
 import "./App.css";
-// import Carousel from "./Components/Carousel";
+import Carousel from "./Components/Carousel";
 import Header from "./Components/Header";
 import Content from "./Components/Content";
 
@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Router>
         <Header />
-        {/* <Carousel /> */}
+        <Carousel />
         <Content />
       </Router>
     </div>

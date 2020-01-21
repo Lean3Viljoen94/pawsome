@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import ReactImageFallback from "react-image-fallback";
 
 import SampleData from "../SampleData.json";
+import StarRating from './StarRating';
 import Filters from "./Filters";
 import "../modal.css";
 
@@ -137,6 +138,7 @@ class DogCards extends Component {
                     <br/>
                     <p>{dog.bio}</p>
                   </Card.Text>
+                  <StarRating/>
                 </Card.Body>
               </div>
             </div>

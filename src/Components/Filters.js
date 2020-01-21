@@ -9,7 +9,7 @@ class Filters extends Component {
   render() {
     return (
       <div>
-        <h1 className="welcomeShowroom">Welcome</h1>
+        <h1 className="welcomeShowroom">Welcome Humans!</h1>
         <h2 className="filterBy"> Filter By : </h2>
         <div className="filterDiv">
           <DropdownButton id="dropdown-basic-button" title="Age">
@@ -25,7 +25,7 @@ class Filters extends Component {
               Clear Filter
             </Dropdown.Item>
           </DropdownButton>
-          <DropdownButton id="dropdown-basic-button" title="Price">
+          <DropdownButton id="dropdown-basic-button" title="Adoption Fee">
             <Dropdown.Item onClick={() => this.props.setPriceRange(0, 999)}>
               Less than R1000
             </Dropdown.Item>

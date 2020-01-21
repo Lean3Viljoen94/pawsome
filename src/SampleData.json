@@ -7,7 +7,7 @@
         "city": "Cape Town",
         "adoptionPrice": "R1000", 
         "imageUrl": "https://i.pinimg.com/originals/8c/7a/e2/8c7ae28680cd917192d6de5ef3d8cd7f.jpg",
-        "bio": "Enter bio here"
+        "bio": "Single handsome male, fun loving, energetic, loves jogging and going for long walks, looking for a life partner for a committed relationship."
     },
     {
         "name": "Julia",
@@ -17,7 +17,7 @@
         "city": "Cape Town",
         "adoptionPrice": "R900", 
         "imageUrl": "https://cf.ltkcdn.net/dogs/images/std/254308-1600x1065-puppy-biting.jpg",
-        "bio": "Enter name bio here"
+        "bio": "Needs a secure home as she's quite the jumper and an energetic friend to keep her company. An apartment will not suit her as she needs a garden and lots of exercise."
     },
     {
         "name": "Megan",
@@ -27,7 +27,7 @@
         "city": "Pretoria",
         "adoptionPrice": "R2000", 
         "imageUrl": "https://preview.redd.it/bkwgp8qpegjy.jpg?auto=webp&s=f7c8f37aabb3a1533ff11851f175b3b917ff5ac5",
-        "bio": "Enter name bio here"
+        "bio": "Cuteness alert! A beauty who just loves to have fun in the sun, play with her foster dog friends and go for long walks."
     },
     {
         "name": "Jesse",
@@ -37,7 +37,7 @@
         "city": "Durban",
         "adoptionPrice": "R1000", 
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTerPzUOndTQWEW0jmJsdrhAtDHrVI_f5liBzf9Wz__v88sGK2f&s",
-        "bio": "Enter name bio here"
+        "bio": "A tiny pup, malnutrition stunted his growth. He's great fun and loves water, other dogs and playing. A typical teenager (7 to 9 months old) who is quickly learning manners, his foster family are teaching him the basics. This boy was swapped for a bag of food, he deserves a family who will love him and keep him safe."
     },
     {
         "name": "Tudor",
@@ -47,7 +47,7 @@
         "city": "Cape Town",
         "adoptionPrice": "R1300", 
         "imageUrl": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/11/29/08/puppy.jpg?w968h681",
-        "bio": "Enter name bio here"
+        "bio": "Fun loving, sun loving boy who loves playng with his friends and kids. Good with cats & very cuddly. "
     },
     {
         "name": "Sussie",
@@ -57,37 +57,37 @@
         "city": "Cape Town",
         "adoptionPrice": "R500", 
         "imageUrl": "https://img.huffingtonpost.com/asset/5cd3adac2400003300a9b211.jpeg?ops=scalefit_630_noupscale",
-        "bio": "Enter name bio here"
+        "bio": "This little sweetheart was unwanted by her owners, isn't that unbelievable? We estimate her to be 3 years old, she will be medium to large and as to what her genetic make up is, well she's a dog, a scruffy, fluffy, pawsome dog."
     },
     {
-        "name": "Thandi",
+        "name": "Zuri",
         "gender": "Female",
         "starSign": "Libra",
         "birthdate": 2015,
         "city": "Pretoria",
         "adoptionPrice": "R1100", 
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1hHuPfPgl0I8iXSbyvx5QLPAx5Xnd5BiQfLYKJSWCAg7oLggR&s",
-        "bio": "Enter name bio here"
+        "bio": "Zuri is such a pretty girl, she's playful and loving, she enjoys paddling in water bowls and gets on really well with kids and dogs of all sizes, she isn't bothered with cats either. Zuri is nearly five years old and will be a small medium adult."
     },
     {
-        "name": "Boet",
+        "name": "Hunter",
         "gender": "Male",
         "starSign": "Aquarius",
         "birthdate": 2019,
         "city": "Durban",
         "adoptionPrice": "R700", 
         "imageUrl": "https://www.vetvoice.com.au/imagevault/publishedmedia/0qjufu9t5emp80r9m60w/Dog_-_puppy.jpg",
-        "bio": "Enter name bio here"
+        "bio": "Hunter is getting so handsome and such a fun loving boy who loves other dogs and people."
     },
     {
-        "name": "Riri",
+        "name": "Jasmine",
         "gender": "Female",
         "starSign": "Gemini",
         "birthdate": 2020,
         "city": "Cape Town",
         "adoptionPrice": "R1000", 
         "imageUrl": "https://www.focusjunior.it/content/uploads/2019/04/rottweiler-1.jpeg",
-        "bio": "Enter name bio here"
+        "bio": "Jasmine is a beautifull 3month old small/medium cross breed girl, she is a shy girl that loves to cuddle"
     },
     {
         "name": "Brad Pitt",
@@ -97,6 +97,6 @@
         "city": "Cape Town",
         "adoptionPrice": "R900", 
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLRCe_mjq0lgvoqc7VtyTf9DJgI47S_Ul4b68tckpcLX-Cytm9Ow&s",
-        "bio": "Enter name bio here"
+        "bio": "He's house trained, loves walks and is very sociable with dogs and cats. He will be a small/medium sized adult and would love an active family."
     }
 ]

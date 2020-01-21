@@ -5,22 +5,22 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 
 // import images from local folder 
-import pink1 from '../Images/pink1.jpg';
-import pink2 from '../Images/pink2.jpg';
-import pink3 from '../Images/pink3.jpg';
+import puppy1 from '../Images/puppy4.jpg';
+import puppy2 from '../Images/puppy8.jpg';
+import puppy3 from '../Images/puppy5.jpg';
  
 class DogCarousel extends Component {
     render() {
         return (
             <Carousel autoPlay infiniteLoop showThumbs={false}>
                 <div>
-                    <img src={pink1} alt="Oops, not found" />
+                    <img src={puppy1} alt="Oops, doggo not found" />
                 </div>
                 <div>
-                    <img src={pink2} alt="Oops, not found" />
+                    <img src={puppy2} alt="Oops, doggo not found" />
                 </div>
                 <div>
-                    <img src={pink3} alt="Oops, not found" />
+                    <img src={puppy3} alt="Oops, doggo not found" />
                 </div>
             </Carousel>
         );
@@ -28,7 +28,3 @@ class DogCarousel extends Component {
 };
 
 export default DogCarousel;
-
-//Pink1 - Photo by Clem Onojeghuo on Unsplash
-//Pink 2 - Photo by Christen LaCorte on Unsplash
-//Pink 3 - Photo by NeONBRAND on Unsplash
